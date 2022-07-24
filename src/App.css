@@ -30,3 +30,20 @@ body{
   font-weight: bold;
   color: orangered;
 }
+
+
+.disrightdiag {
+  background-color: rgba(255, 4, 4, 0.377);
+}
+
+.disleftdiag {
+  background-color: rgba(255, 4, 4, 0.377);
+}
+
+.dishor {
+  background-color: rgba(255, 4, 4, 0.377);
+}
+
+.disvert {
+  background-color: rgba(255, 4, 4, 0.377);
+}
